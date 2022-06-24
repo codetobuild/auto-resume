@@ -2,6 +2,8 @@
 
 ### This application help you build beautiful resumes. It is built with Reactjs.
 
+ Demo: [Click here to visit live site](https://auto-resume.netlify.app/)
+
 <hr>
 
 ### Get started
