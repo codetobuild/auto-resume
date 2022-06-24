@@ -2,7 +2,15 @@
 
 ### This application help you build beautiful resumes. It is built with Reactjs.
 
- Demo: [Click here to visit live site](https://auto-resume.netlify.app/)
+Demo: [Click here to visit live site](https://auto-resume.netlify.app/)
+
+<hr>
+
+### Demo Images
+
+![Demo_image_1](demo_image_1.png)
+![Demo_image_2](demo_image_2.png)
+![Demo_image_3](demo_image_3.png)
 
 <hr>
 
@@ -35,4 +43,3 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
- 
